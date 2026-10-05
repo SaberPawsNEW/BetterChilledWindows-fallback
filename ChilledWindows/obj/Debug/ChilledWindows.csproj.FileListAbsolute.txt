@@ -1,0 +1,12 @@
+C:\Users\Gamer\Desktop\BetterChilledWindows\ChilledWindows\bin\Debug\ChilledWindows.exe
+C:\Users\Gamer\Desktop\BetterChilledWindows\ChilledWindows\bin\Debug\ChilledWindows.pdb
+C:\Users\Gamer\Desktop\BetterChilledWindows\ChilledWindows\obj\Debug\ChilledWindows.csproj.AssemblyReference.cache
+C:\Users\Gamer\Desktop\BetterChilledWindows\ChilledWindows\obj\Debug\MainWindow.g.cs
+C:\Users\Gamer\Desktop\BetterChilledWindows\ChilledWindows\obj\Debug\App.g.cs
+C:\Users\Gamer\Desktop\BetterChilledWindows\ChilledWindows\obj\Debug\ChilledWindows_MarkupCompile.cache
+C:\Users\Gamer\Desktop\BetterChilledWindows\ChilledWindows\obj\Debug\ChilledWindows_MarkupCompile.lref
+C:\Users\Gamer\Desktop\BetterChilledWindows\ChilledWindows\obj\Debug\MainWindow.baml
+C:\Users\Gamer\Desktop\BetterChilledWindows\ChilledWindows\obj\Debug\ChilledWindows.g.resources
+C:\Users\Gamer\Desktop\BetterChilledWindows\ChilledWindows\obj\Debug\ChilledWindows.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\Desktop\BetterChilledWindows\ChilledWindows\obj\Debug\ChilledWindows.exe
+C:\Users\Gamer\Desktop\BetterChilledWindows\ChilledWindows\obj\Debug\ChilledWindows.pdb
